@@ -4,7 +4,3 @@
 [submodule "kdelibs"]
 	path = kdelibs
 	url = git@github.com:nishiowo/kdelibs.git
-[submodule "ktimetrace"]
-	path = ktimetrace
-    url = git@github.com:nishiowo/ktimetrace.git
-    branch = kde2
