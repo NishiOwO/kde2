@@ -1,10 +1,10 @@
 [submodule "qt2"]
 	path = qt2
-	url = git@github.com:heliocastro/qt2.git
+	url = git@github.com:nishiowo/qt2.git
 [submodule "kdelibs"]
 	path = kdelibs
-	url = git@github.com:heliocastro/kdelibs.git
+	url = git@github.com:nishiowo/kdelibs.git
 [submodule "ktimetrace"]
 	path = ktimetrace
-    url = git@github.com:heliocastro/ktimetrace.git
+    url = git@github.com:nishiowo/ktimetrace.git
     branch = kde2
