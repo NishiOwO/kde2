@@ -41,4 +41,3 @@ endmacro()
 
 add_subdirectory(qt2)
 add_subdirectory(kdelibs)
-add_subdirectory(ktimetrace)
